@@ -14,4 +14,4 @@ The code relies 100% on the UI of IMDB, so if IMDB decides to change their UI, t
 
 ## Screenshot
 
-![The extension](https://github.com/germanger/imdb-friends-link/blob/master/chromestore/promotional-440x280.png?raw=true)
+![The extension](https://raw.githubusercontent.com/germanger/imdb-friends-link/master/chromestore/promotional-440x280.jpg)
